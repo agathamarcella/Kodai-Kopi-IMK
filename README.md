@@ -5,7 +5,7 @@
 3. Rifaat Imappaganti 1313619019
 4. Nanda Afif         1313619039
 ## Link Video Meeting
-> https://drive.google.com/file/d/1imOogPeQYWYQrOgEB3FTB2p-14LqeXK7/view?usp=sharing
+> https://youtu.be/wkmPkSsKOrI
 ## Portofolio Kodai Kopi
 ## Tujuan
 Tujuan nya adalah agar customer lebih mengenal dan lebih mengetahui tentang Kodai Kopi. Dengan ada nya ini juga diharapkan lebih memudahkan customer dalam melihat menu dan harga dalam melakukan pemesanan. Di dalam nya juga terdapat pengumuman tentang promo, menu, kontak, dan lokasi Kodai Kopi.
@@ -19,5 +19,6 @@ Fitur - fitur yang akan digunakan adalah sebagai berikut :
 3. Gallery : sebagai fitur untuk melihat dekskripsi produk dan foto tempat.
 4. Contact : sebagai fitur untuk melihat kontak Kodai Kopi yang dapat di hubungi. 
 ### Usecase
+https://user-images.githubusercontent.com/56811810/99563782-330e3a80-29fc-11eb-915b-f6bbe98dc85c.jpg
 ## Design Interaction Control
 ## Mockup
