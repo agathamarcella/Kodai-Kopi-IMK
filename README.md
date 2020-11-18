@@ -9,6 +9,9 @@
 ## Tujuan
 ## Bisnis Proses
 ## Fitur
+### Fitur Admin
+### Fitur User
+### Usecase
 ## Design Interaction Control
 ## Mockup
 ### Mockup Admin
