@@ -11,7 +11,7 @@
 Tujuan nya adalah agar customer lebih mengenal dan lebih mengetahui tentang Kodai Kopi. Dengan ada nya ini juga diharapkan lebih memudahkan customer dalam melihat menu dan harga dalam melakukan pemesanan. Di dalam nya juga terdapat pengumuman tentang promo, menu, kontak, dan lokasi Kodai Kopi.
 ## Bisnis Proses
 Bisnis Proses dari Kodai Kopi sebagai berikut : 
-
+![Business Process](https://user-images.githubusercontent.com/56811810/99566059-ff80df80-29fe-11eb-988b-a45dc313eaf0.jpg)
 ## Fitur
 Fitur - fitur yang akan digunakan adalah sebagai berikut : 
 1. About : sebagai fitur untuk Mengetahui lebih lanjut apa itu Kodai Kopi.
