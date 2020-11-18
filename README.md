@@ -8,7 +8,7 @@
 > https://drive.google.com/file/d/1imOogPeQYWYQrOgEB3FTB2p-14LqeXK7/view?usp=sharing
 ## Portofolio Kodai Kopi
 ## Tujuan
-Tujuan nya adalah agar customer lebih mengenal dan lebih mengetahui tentang Kodai Kopi. Dengan ada nya ini juga diharapkan lebih memudahkan customer dalam melihat menu dan harga dalam melakukan pemesanan. Di dalam nya juga terdapat pengumuman tentang promo, kontak, lokasi Kodai Kopi.
+Tujuan nya adalah agar customer lebih mengenal dan lebih mengetahui tentang Kodai Kopi. Dengan ada nya ini juga diharapkan lebih memudahkan customer dalam melihat menu dan harga dalam melakukan pemesanan. Di dalam nya juga terdapat pengumuman tentang promo, visi misi, kontak, dan lokasi Kodai Kopi.
 ## Bisnis Proses
 Bisnis Proses dari Kodai Kopi sebagai berikut : 
 
