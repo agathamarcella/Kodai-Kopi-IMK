@@ -10,9 +10,9 @@
 ## Bisnis Proses
 ## Fitur
 ### Fitur Admin
-### Fitur User
+### Fitur Costumer
 ### Usecase
 ## Design Interaction Control
 ## Mockup
 ### Mockup Admin
-### Mockup User
+### Mockup Costumer
