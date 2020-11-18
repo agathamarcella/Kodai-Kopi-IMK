@@ -8,15 +8,16 @@
 > https://drive.google.com/file/d/1imOogPeQYWYQrOgEB3FTB2p-14LqeXK7/view?usp=sharing
 ## Portofolio Kodai Kopi
 ## Tujuan
-Tujuan nya adalah agar customer lebih mengenal dan lebih mengetahui tentang Kodai Kopi. Dengan ada nya ini juga diharapkan lebih memudahkan customer dalam melihat menu dan harga dalam melakukan pemesanan. Di dalam nya juga terdapat pengumuman tentang promo, galeri, kontak, dan lokasi Kodai Kopi.
+Tujuan nya adalah agar customer lebih mengenal dan lebih mengetahui tentang Kodai Kopi. Dengan ada nya ini juga diharapkan lebih memudahkan customer dalam melihat menu dan harga dalam melakukan pemesanan. Di dalam nya juga terdapat pengumuman tentang promo, menu, kontak, dan lokasi Kodai Kopi.
 ## Bisnis Proses
 Bisnis Proses dari Kodai Kopi sebagai berikut : 
 
 ## Fitur
 Fitur - fitur yang akan digunakan adalah sebagai berikut : 
-1. Home : sebagai fitur untuk melihat pengumuman dan menu yang ada di Kodai Kopi.
-2. About : sebagai fitur untuk Mengetahui lebih lanjut apa itu Kodai Kopi.
-3. Contact : sebagai fitur untuk melihat kontak Kodai Kopi yang dapat di hubungi. 
+1. About : sebagai fitur untuk Mengetahui lebih lanjut apa itu Kodai Kopi.
+2. Product : sebagai fitur untuk melihat menu.
+3. Gallery : sebagai fitur untuk melihat dekskripsi produk dan foto tempat.
+4. Contact : sebagai fitur untuk melihat kontak Kodai Kopi yang dapat di hubungi. 
 ### Usecase
 ## Design Interaction Control
 ## Mockup
