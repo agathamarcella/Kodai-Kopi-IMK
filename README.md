@@ -27,5 +27,5 @@ Fitur - fitur yang akan digunakan adalah sebagai berikut :
 ![Design Interaction Control](https://user-images.githubusercontent.com/56811810/99637675-c6388600-2a77-11eb-8774-0123d0f3453a.jpg)
 ## Mockup
 > https://github.com/avocado23/Kodai-Kopi-IMK/tree/main/Mockup%20%26%20Deisgn%20Interaction%20Control/mockup
-## Final report
+## Report Summarize
 > 
