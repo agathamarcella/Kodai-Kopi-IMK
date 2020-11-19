@@ -28,4 +28,4 @@ Fitur - fitur yang akan digunakan adalah sebagai berikut :
 ## Mockup
 > https://github.com/avocado23/Kodai-Kopi-IMK/tree/main/Mockup%20%26%20Deisgn%20Interaction%20Control/mockup
 ## Report Summarize
-> 
+> https://github.com/avocado23/E-Catalogue-Kodai-Kopi-IMK/blob/main/Report%20Summarize.pdf
