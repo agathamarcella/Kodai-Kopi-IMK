@@ -22,7 +22,7 @@ Fitur - fitur yang akan digunakan adalah sebagai berikut :
 3. Gallery : sebagai fitur untuk melihat dekskripsi produk dan foto tempat.
 4. Contact : sebagai fitur untuk melihat kontak Kodai Kopi yang dapat di hubungi. 
 ### Usecase
-![Use Case Kodai Kopi](https://user-images.githubusercontent.com/56811810/99563782-330e3a80-29fc-11eb-915b-f6bbe98dc85c.jpg)
+![Use Case Kodai Kopi](https://raw.githubusercontent.com/avocado23/Kodai-Kopi-IMK/main/Use%20Case%2C%20Business%20Process%2C%20Activity%20Diagram/USECASE.png)
 ## Design Interaction Control
 ![Design Interaction Control](https://user-images.githubusercontent.com/56811810/99637675-c6388600-2a77-11eb-8774-0123d0f3453a.jpg)
 ## Mockup
