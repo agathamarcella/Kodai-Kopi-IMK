@@ -1,4 +1,4 @@
-## Assignment 3 -Interaksi Manusia Komputer-
+## Interaksi Manusia Komputer
 # Group K
 1. Agatha Marcella    1313618006
 2. Fathimah Az Zahra  1313618012
@@ -11,7 +11,7 @@
 ## Tujuan
 Tujuan nya adalah agar customer lebih mengenal dan lebih mengetahui tentang Kodai Kopi. Dengan ada nya ini juga diharapkan lebih memudahkan customer dalam melihat menu dan harga dalam melakukan pemesanan. Di dalam nya juga terdapat pengumuman tentang promo, menu, kontak, dan lokasi Kodai Kopi.
 ## Analysis Requirement dengan Metode Interview dan Observasi
-> https://github.com/avocado23/Kodai-Kopi-IMK/blob/main/Mini%20Report%20(Phase%201).pdf
+> https://github.com/avocado23/Kodai-Kopi-IMK/blob/main/mini%20report/Mini%20Report%20(Phase%201).pdf
 ## Bisnis Proses
 Bisnis Proses dari Kodai Kopi sebagai berikut : 
 ![Business Process(1)](https://user-images.githubusercontent.com/56811810/103903956-2fab4b80-512f-11eb-9a22-a3c6d87d38e2.jpg)
