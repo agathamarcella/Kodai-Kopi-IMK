@@ -1,4 +1,4 @@
-## Interaksi Manusia Komputer
+## Interaksi Manusia dan Komputer
 # Group K
 1. Agatha Marcella    1313618006
 2. Fathimah Az Zahra  1313618012
@@ -6,6 +6,7 @@
 4. Nanda Afif         1313619039
 ## Kodai Kopi
 > http://kodaikopimoi.000webhostapp.com/
+
 Data User Log
 1. Open www.000webhost.com
 2. Login with email : azahrx@gmail.com password : Sepatubaru13!
