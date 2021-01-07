@@ -7,7 +7,7 @@
 ## Link Presentation Meeting
 > https://youtu.be/wkmPkSsKOrI
 ## Portofolio Kodai Kopi
-> https://github.com/avocado23/E-Catalogue-Kodai-Kopi-IMK/blob/main/Portofolio%20E-Catalogue%20Kodai%20Kopi.pdf
+> https://github.com/avocado23/Kodai-Kopi-IMK/blob/main/mini%20report/Portofolio%20Kodai%20Kopi-converted-dikonversi.pdf
 ## Tujuan
 Tujuan nya adalah agar customer lebih mengenal dan lebih mengetahui tentang Kodai Kopi. Dengan ada nya ini juga diharapkan lebih memudahkan customer dalam melihat menu dan harga dalam melakukan pemesanan. Di dalam nya juga terdapat pengumuman tentang promo, menu, kontak, dan lokasi Kodai Kopi.
 ## Analysis Requirement dengan Metode Interview dan Observasi
