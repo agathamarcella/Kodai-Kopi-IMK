@@ -41,7 +41,7 @@ session_start();
     <div class="container my-2" id="about">
         <div class="row">
             <div class="col-lg-6 my-3">
-                <img class="img-about" src="img/ambience1.JPG" alt="about_img">
+                <img class="img-default" src="img/ambience.JPG" alt="about_img">
             </div>
             <div class="col-lg-6 my-3">
                 <h1 class="font-weight-bold">About</h1>

@@ -29,6 +29,9 @@
         <div class="container my-2">
             <a href="https://kodaikopimoi.000webhostapp.com/">
             <img class="logo-kodai mr-3" src="../img/logo3.jpeg">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
             </a>
             <div class="collapse navbar-collapse navbar-align-right" id="navbarSupportedContent">
                 <!-- Right Side Of Navbar -->
