@@ -4,6 +4,10 @@
 2. Fathimah Az Zahra  1313618012
 3. Rifaat Imappaganti 1313619019
 4. Nanda Afif         1313619039
+## Link Kodai Kopi
+> http://kodaikopimoi.000webhostapp.com/
+## Final Report
+> https://github.com/avocado23/Kodai-Kopi-IMK/blob/main/Final%20Report.pdf
 ## Link Presentation Meeting
 > https://youtu.be/wkmPkSsKOrI
 ## Portofolio Kodai Kopi
@@ -30,5 +34,3 @@ Fitur - fitur yang akan digunakan adalah sebagai berikut :
 > https://github.com/avocado23/Kodai-Kopi-IMK/tree/main/Mockup%20%26%20Deisgn%20Interaction%20Control/mockup
 ## Report Summarize
 > https://github.com/avocado23/Kodai-Kopi-IMK/blob/main/mini%20report/Report%20Summarize.pdf
-## Final Report
-> https://github.com/avocado23/Kodai-Kopi-IMK/blob/main/Final%20Report.pdf
