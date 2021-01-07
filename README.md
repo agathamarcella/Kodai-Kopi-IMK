@@ -14,7 +14,8 @@ Tujuan nya adalah agar customer lebih mengenal dan lebih mengetahui tentang Koda
 > https://github.com/avocado23/Kodai-Kopi-IMK/blob/main/Mini%20Report%20(Phase%201).pdf
 ## Bisnis Proses
 Bisnis Proses dari Kodai Kopi sebagai berikut : 
-![Business Process](https://user-images.githubusercontent.com/56811810/99566059-ff80df80-29fe-11eb-988b-a45dc313eaf0.jpg)
+![Business Process(1)](https://user-images.githubusercontent.com/56811810/103903956-2fab4b80-512f-11eb-9a22-a3c6d87d38e2.jpg)
+![Business Process(2)](https://user-images.githubusercontent.com/56811810/103903954-2e7a1e80-512f-11eb-9f5d-edd3b9c9ab8b.jpg)
 ## Fitur
 Fitur - fitur yang akan digunakan adalah sebagai berikut : 
 1. About : sebagai fitur untuk Mengetahui lebih lanjut apa itu Kodai Kopi.
